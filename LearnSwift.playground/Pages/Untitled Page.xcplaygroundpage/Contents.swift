@@ -2,9 +2,9 @@ import UIKit
 
 var greeting = "Hello, playground"
 
-// print("Welcome to Swift")
-// print(greeting)
-/*
+print("Welcome to Swift")
+print(greeting)
+
 var x = 10
 
 for index in 1...20 {
@@ -15,7 +15,7 @@ for index in 1...20 {
     print("y :", y)
     print("")
 }
- */
+
 
 /*:
  # Welcome to Playgrounds
